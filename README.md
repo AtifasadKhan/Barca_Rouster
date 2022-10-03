@@ -1,3 +1,3 @@
 # Barca_Rouster
 
-It is just a list I maintain to add Player to my PES squad
+It is just a list I maintain to add Players to my PES squad
